@@ -9,4 +9,4 @@ export const BOARD_FRAME_PIXEL_SIZE = 5;
 export const CELL_ALIVE_COLOR = yellow[100];
 export const CELL_DEAD_COLOR = pink[100];
 
-export const FRAME_PER_SECOND = 15;
+export const FRAME_PER_SECOND = 30;
