@@ -6,7 +6,10 @@ Conway's game of life but it's in the dom. Written in typescript with react.
 
 This is a toy project for my own research and education. You may found weird things.
 
-### usage:
+### demo:
+[Live demo here](https://poopydiscoop.github.io/dom-of-life/)
+
+### repo usage:
 
 ```
 # clone & cd
